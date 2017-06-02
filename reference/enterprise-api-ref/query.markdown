@@ -35,7 +35,7 @@ API performance depend on the query result size, to achieve fastest results cons
 * **hostContextInclude** *(array)*
     Includes only results that concern hosts which have all specified CFEngine contexts (class) set. Optional parameter.
 * **hostContextExclude** *(array)*
-    Excludes results that concern hosts which have specified CFEngine context (class) set. Hosts that have at lest one of the specified contexts set will be excluded from the results. Optional parameter.
+    Excludes results that concern hosts which have specified CFEngine context (class) set. Hosts that have at least one of the specified contexts set will be excluded from the results. Optional parameter.
 
 **Example Request Body:**
 
